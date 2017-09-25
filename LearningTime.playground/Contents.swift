@@ -42,3 +42,5 @@ print(isTrue)
 let myName: String
 myName = "Juan Delacruz"
 print(myName)
+
+let waifu = "Nero"
