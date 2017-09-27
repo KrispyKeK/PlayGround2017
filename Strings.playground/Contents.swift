@@ -23,5 +23,10 @@ let test = "Testing is a thing: " + word
 print(test)
 
 //calling out the word count of test
+print("Character count: ")
 print(test.characters.count)
+
+
+
+
 
