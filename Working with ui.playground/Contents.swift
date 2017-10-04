@@ -36,3 +36,7 @@ class Test: UIViewController{
         label.bounds = CGRect(x: 50, y: 50, width: 10, height: 10)
     }
 }
+
+var word = "aohfdfh"
+var con = word.count
+
